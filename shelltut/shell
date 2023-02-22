@@ -1,1 +1,7 @@
-VimCrypt~03!Ò§€_~b4T5Fä6tbwzë®Â Š{ñDô@S¼%=6´‰µ_+è¤Lcg•ûŞd|Óş±úhÊÅngA(æ§AB9(ëóÅœòGzUªğ 5;¾öÒ@Œc§¢£;g`*¸÷Ş÷q~y­e¬qµëûBz˜‘s[{
+#!/bin/bash
+
+# simple script to updates ubuntu automatically
+sudo apt update
+sudo apt -dist-upgrade
+
+exit
